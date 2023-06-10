@@ -8,7 +8,6 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 
 import css from "./tech/css.png";
-import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
@@ -18,7 +17,12 @@ import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
+import postgresql from "./tech/postgresql.png";
+import python from "./tech/python.png";
+import django from "./tech/django.png";
+import expo from "./tech/expo.png";
+import mysql from "./tech/mysql.png";
+import flutter from "./tech/flutter.png";
 import threejs from "./tech/threejs.svg";
 
 import candor from "./company/candor.png";
@@ -39,17 +43,21 @@ export {
   menu,
   close,
   css,
-  docker,
   figma,
   git,
   html,
+  python,
+  django,
+  postgresql,
+  mysql,
+  flutter,
+  expo,
   javascript,
   mongodb,
   nodejs,
   reactjs,
   redux,
   tailwind,
-  typescript,
   threejs,
   candor,
   ipcs,

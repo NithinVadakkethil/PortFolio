@@ -4,7 +4,6 @@ import {
   creator,
   web,
   javascript,
-  typescript,
   html,
   css,
   reactjs,
@@ -13,8 +12,14 @@ import {
   nodejs,
   mongodb,
   git,
+  github,
+  python,
+  django,
+  expo,
+  mysql,
+  postgresql,
+  flutter,
   figma,
-  docker,
   candor,
   ipcs,
   sinet,
@@ -72,10 +77,6 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
-  },
-  {
     name: "React JS",
     icon: reactjs,
   },
@@ -104,12 +105,24 @@ const technologies = [
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
+    name: "expo",
+    icon: expo,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "python",
+    icon: python,
+  },
+  {
+    name: "django",
+    icon: django,
+  },
+  {
+    name: "postgresql",
+    icon: postgresql,
+  },
+  {
+    name: "mysql",
+    icon: mysql,
   },
 ];
 
